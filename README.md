@@ -1,5 +1,3 @@
 # git_test
-
-Sviđa mi se ovo :)
-+
-+
+My first GitHub repo!
+Hello Odin!
